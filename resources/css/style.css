@@ -1,0 +1,23 @@
+* {
+font-family: Verdana;
+text-align: center;
+background-color: Black;
+}
+h1 {
+font-weight: normal;
+color: White;
+font-size: 50px;
+}
+p {
+  font-size: 21px;
+  color: Gray;
+}
+a {
+  color: AquaMarine;
+  font-size: 16px;
+  text-align: center;
+}
+#copy {
+  text-align: right;
+  color: Gray;
+}
